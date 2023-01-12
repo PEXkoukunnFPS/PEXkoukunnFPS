@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=-F62fjtqLzI2JPCgQBnw7HFowxoX8h8E4oN-eauDTwsRViXcOU9y5BKD-Sikttf_4Ps&skey=72472b0eb8793570&v=v42) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/l/font?kit=-F6pfjtqLzI2JPCgQBnw7HFQMisq12V4p6J0cbALoukRViTcOFF04DGDwAuonNP5yuehQew&skey=fbc48de1c6e1b00c&v=v42) format('woff2');
+}
